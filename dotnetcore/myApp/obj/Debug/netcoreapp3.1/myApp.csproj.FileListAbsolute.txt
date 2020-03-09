@@ -1,0 +1,11 @@
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\levb2\Documents\projects\dotnetcore\myApp\obj\Debug\netcoreapp3.1\myApp.pdb

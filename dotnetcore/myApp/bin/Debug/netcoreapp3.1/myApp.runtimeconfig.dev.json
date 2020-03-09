@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\levb2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\levb2\\.nuget\\packages"
+    ]
+  }
+}
